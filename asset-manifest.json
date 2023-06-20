@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/numerical-integrator-test/static/css/main.1ce69d78.css",
+    "main.js": "/numerical-integrator-test/static/js/main.e07ea209.js",
+    "index.html": "/numerical-integrator-test/index.html",
+    "main.1ce69d78.css.map": "/numerical-integrator-test/static/css/main.1ce69d78.css.map",
+    "main.e07ea209.js.map": "/numerical-integrator-test/static/js/main.e07ea209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce69d78.css",
+    "static/js/main.e07ea209.js"
+  ]
+}
