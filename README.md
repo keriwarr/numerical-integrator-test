@@ -1,3 +1,1 @@
-# gravity
-
-`yarn start`
+# https://keri.warr.ca/numerical-integrator-test/
